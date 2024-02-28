@@ -1,0 +1,22 @@
+{
+  "Source": null,
+  "Sink": null,
+  "SourceSettings": {    
+  },
+  "SinkSettings": {    
+  },
+  "Operations": [
+    //{
+    //  "SourceSettings": {
+    //  },
+    //  "SinkSettings": {
+    //  }
+    //},
+    //{
+    //  "SourceSettings": {
+    //  },
+    //  "SinkSettings": {
+    //  }
+    //}
+  ]
+}
